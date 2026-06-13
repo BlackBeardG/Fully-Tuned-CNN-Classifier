@@ -32,5 +32,5 @@ The best-performing CNN achieved **91.43% test accuracy** on the CIFAR-10 test s
 
 ## Files
 
-- `cifar10_cnn_baseline_comparison.ipynb`: implementation and experiments
-- `NeuralNetworks_Assignment_1_EN.docx`: project report
+- `cifar10_cnn_classification.ipynb`: implementation and experiments
+- `Report.pdf`: project report
